@@ -54,32 +54,24 @@ A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensi
 
 The Indigenous background variant library (IBVL) : from community engagement to implementation.
 
-Talk shared with B. Morgan, BIGX Research Day, Vancouver, BC, Canada - 2021
-
+>Talk shared with B. Morgan, BIGX Research Day, Vancouver, BC, Canada - 2021
 
 
 The Indigenous background variant library (IBVL) : from community engagement to implementation.
 
-Talk shared with B. Morgan, Indigenous Genomics Conference (1st) – Hamilton, New Zealand – 2020
-
-
+>Talk shared with B. Morgan, Indigenous Genomics Conference (1st) – Hamilton, New Zealand – 2020
 
 The Silent Genomes project : Reducing health care disparities and improving diagnostic success for children with genetic diseases from Indigenous populations of Canada.
 
-Talk shared with W. Wasserman, Workshop on Clinical implementation of Genomics and Epigenomics – Barbados – 2020
-
-
+> Talk shared with W. Wasserman, Workshop on Clinical implementation of Genomics and Epigenomics – Barbados – 2020
 
 Sensory neuropathies : from the variant identification in hunting dogs to DNA screening in Human patients.
 
-The 1st Companion Animal Genetic Health conference – Edinburgh, Scotland – 2018
-
-
-
+> The 1st Companion Animal Genetic Health conference – Edinburgh, Scotland – 2018
 
 Research of mutations implicated in Greater Swiss Mountain dogs and Cane corso epilepsies.
 
-The 9th International Conference on Canine and Feline Genetics and Genomics – St-Paul, MN, U.S.A. – 2017
+> The 9th International Conference on Canine and Feline Genetics and Genomics – St-Paul, MN, U.S.A. – 2017
 
 
 
