@@ -4,14 +4,24 @@ I'm Solenne, a molecular biologist and a bioinformatician passionate about the c
 
 I am driven by the will to use genomic to help naviguate some of today's worlwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, or **study climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
 
-## Projects
+## Main projects (Past and present)
 
-### Current projects
+### The Silent Genomes Project - Building an Indigenous Background Variant Library
 
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
 Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a> working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada. Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA varaints present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
 
-### Past projects
+### Diagnosis of patients affected with rare genetic diseases
+
+As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticist and other team meber to help  improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
+
+### Study of the non-coding variants in the genome
+
+During my PhD, I studied a non coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
+To address that gap in litterature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
+
+
+### Dog genomes study
 
 <img align="right" width="230" height="180" src="https://github.com/scorreard/scorreard/blob/main/Dog%20breeds.png">
 In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and caracterize variants implicated in neurological disorders, but also varaints implicated in phenotypic charcteristic such as morphology or coat color.
@@ -20,7 +30,9 @@ Why the dog genome?
 Over the last few centuries, several hundred dog breeds have been artificially selected through intense breeding, resulting in the modern dog population having the widest polymorphism spectrum in terms of body shape, behavior and aptitude among mammals. Unfortunately, this diversification has predisposed most breeds to specific diseases of genetic origin (Galibert and André, 2006). Studying the dog genome can help understand diseases and other phenotypes, and have an impact for two species : Humans, and human "best-friends".
 
 
-## Publications
+## Publications 📝
+
+If you don't have access to one of these publication and wish to read it, let me know! Scientific publications should be accessible to all.
 
 ### Silent Genomes Prooject related 
 
@@ -52,7 +64,7 @@ A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensi
 
 > Plassais J, Lagoutte L, **Correard S**, Paradis M, Guaguère E, Hédan B, Pommier A, Botherel N, Cadiergues MC, Pilorge P, Silversides D, Bizot M, Samuels M, Arnan C, Johnson R, Hitte C, Salbert G, Méreau A, Quignon P, Derrien T, André C. PLoS Genet. 2016 Dec 29;12(12):e1006482. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198995/">doi: 10.1371/journal.pgen.1006482</a>. PMID: 28033318; PMCID: PMC5198995.
 
-## Oral presentation
+## Oral presentation 🗣️
 
 The Indigenous background variant library (IBVL) : from community engagement to implementation.
 
