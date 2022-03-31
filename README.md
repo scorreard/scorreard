@@ -13,11 +13,11 @@ Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasser
 
 ### Diagnosis of patients affected with rare genetic diseases
 
-As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticist and other team meber to help  improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
+<img align="right" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticist and other team meber to help  improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
 
 ### Study of the non-coding variants in the genome
 
-During my PhD, I studied a non coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
+<img align="left" width="150" height="100" src="https://github.com/scorreard/scorreard/blob/main/RevUP.png">During my PhD, I studied a non coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
 To address that gap in litterature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
 
 
