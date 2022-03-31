@@ -13,7 +13,7 @@ Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasser
 
 ### Past projects
 
-<img align="right" width="65" height="150" src="https://github.com/scorreard/scorreard/blob/main/Dog%20breeds.png">
+<img align="right" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/Dog%20breeds.png">
 In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and caracterize variants implicated in neurological disorders, but also varaints implicated in phenotypic charcteristic such as morphology or coat color.
 
 Why the dog genome? 
