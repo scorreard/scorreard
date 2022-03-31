@@ -23,6 +23,7 @@ Over the last few centuries, several hundred dog breeds have been artificially s
 ### Silent Genomes Prooject related 
 
 Indigenous Genomic Databases: Pragmatic Considerations and Cultural Contexts.
+
 Caron NR, Chongo M, Hudson M, Arbour L, Wasserman WW, Robertson S, **Correard S**, Wilcox P. Front Public Health. 2020 Apr 24;8:111. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193324/">doi: 10.3389/fpubh.2020.00111</a>. PMID: 32391301; PMCID: PMC7193324.
 
 ### Study of the non-coding region in human related 
