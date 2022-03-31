@@ -11,14 +11,14 @@ I am driven by the will to use genomic to help naviguate some of today's worlwid
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
 Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a> working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada. Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA varaints present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
 
-### Diagnosis of patients affected with rare genetic diseases
-<img align="right" width="150" height="120" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">
+### Diagnosis of patients affected with rare genetic diseases <img align="right" width="150" height="120" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">
 
 As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticist and other team meber to help  improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
 
+
 ### Study of the non-coding variants in the genome
 
-<img align="left" width="170" height="120" src="https://github.com/scorreard/scorreard/blob/main/RevUP.png">
+<img align="left" width="180" height="120" src="https://github.com/scorreard/scorreard/blob/main/RevUP.png">
 During my PhD, I studied a non coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
 To address that gap in litterature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
 
