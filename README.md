@@ -26,7 +26,9 @@ Over the last few centuries, several hundred dog breeds have been artificially s
 
 ### Study of the non-coding region in human related publications
 
-Correard S, Hewitson B, van der Lee R, Wasserman WW. RevUP, an online scoring system for regulatory variants implicated in rare diseases. Bioinformatics. 2022 Mar 15:btac157. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac157/6548794?login=false">doi: 10.1093/bioinformatics/btac157</a>. Epub ahead of print. PMID: 35289834.
+*Correard S*, Hewitson B, van der Lee R, Wasserman WW. RevUP, an online scoring system for regulatory variants implicated in rare diseases. Bioinformatics. 2022 Mar 15:btac157. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac157/6548794?login=false">doi: 10.1093/bioinformatics/btac157</a>. Epub ahead of print. PMID: 35289834.
+
+van der Lee R, *Correard S*, Wasserman WW. Deregulated Regulators: Disease-Causing cis Variants in Transcription Factor Genes. Trends Genet. 2020 Jul;36(7):523-539. <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30088-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952520300883%3Fshowall%3Dtrue">doi: 10.1016/j.tig.2020.04.006</a>. Epub 2020 May 22. PMID: 32451166.
 
 ### Dog genetics related publications
 
