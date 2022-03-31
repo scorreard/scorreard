@@ -28,19 +28,58 @@ Indigenous Genomic Databases: Pragmatic Considerations and Cultural Contexts.
 
 ### Study of the non-coding region in human related 
 
-**Correard S**, Hewitson B, van der Lee R, Wasserman WW. RevUP, an online scoring system for regulatory variants implicated in rare diseases. Bioinformatics. 2022 Mar 15:btac157. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac157/6548794?login=false">doi: 10.1093/bioinformatics/btac157</a>. Epub ahead of print. PMID: 35289834.
+RevUP, an online scoring system for regulatory variants implicated in rare diseases. 
 
-van der Lee R, **Correard S**, Wasserman WW. Deregulated Regulators: Disease-Causing cis Variants in Transcription Factor Genes. Trends Genet. 2020 Jul;36(7):523-539. <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30088-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952520300883%3Fshowall%3Dtrue">doi: 10.1016/j.tig.2020.04.006</a>. Epub 2020 May 22. PMID: 32451166.
+> **Correard S**, Hewitson B, van der Lee R, Wasserman WW. Bioinformatics. 2022 Mar 15:btac157. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac157/6548794?login=false">doi: 10.1093/bioinformatics/btac157</a>. Epub ahead of print. PMID: 35289834.
 
-Fornes O, Castro-Mondragon JA, Khan A, van der Lee R, Zhang X, Richmond PA, Modi BP, **Correard S**, Gheorghe M, Baranašić D, Santana-Garcia W, Tan G, Chèneby J, Ballester B, Parcy F, Sandelin A, Lenhard B, Wasserman WW, Mathelier A. JASPAR 2020: update of the open-access database of transcription factor binding profiles. Nucleic Acids Res. 2020 Jan 8;48(D1):D87-D92. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145627/">doi: 10.1093/nar/gkz1001</a>. PMID: 31701148; PMCID: PMC7145627.
+Deregulated Regulators: Disease-Causing cis Variants in Transcription Factor Genes.
+
+>van der Lee R, **Correard S**, Wasserman WW.  Trends Genet. 2020 Jul;36(7):523-539. <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30088-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952520300883%3Fshowall%3Dtrue">doi: 10.1016/j.tig.2020.04.006</a>. Epub 2020 May 22. PMID: 32451166.
+
+JASPAR 2020: update of the open-access database of transcription factor binding profiles.
+
+>Fornes O, Castro-Mondragon JA, Khan A, van der Lee R, Zhang X, Richmond PA, Modi BP, **Correard S**, Gheorghe M, Baranašić D, Santana-Garcia W, Tan G, Chèneby J, Ballester B, Parcy F, Sandelin A, Lenhard B, Wasserman WW, Mathelier A.  Nucleic Acids Res. 2020 Jan 8;48(D1):D87-D92. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145627/">doi: 10.1093/nar/gkz1001</a>. PMID: 31701148; PMCID: PMC7145627.
 
 ### Dog genetics related 
 
-**Correard S**, Plassais J, Lagoutte L, Botherel N, Thibaud JL, Hédan B, Richard L, Lia AS, Delague V, Mège C, Mathis S, Guaguère E, Paradis M, Vallat JM, Quignon P, André C. Canine neuropathies: powerful spontaneous models for human hereditary sensory neuropathies. Hum Genet. 2019 May;138(5):455-466. <a href="https://link.springer.com/article/10.1007/s00439-019-02003-x">doi: 10.1007/s00439-019-02003-x</a>. Epub 2019 Apr 6. PMID: 30955094.
+Canine neuropathies: powerful spontaneous models for human hereditary sensory neuropathies. 
 
-Plassais J, Lagoutte L, **Correard S**, Paradis M, Guaguère E, Hédan B, Pommier A, Botherel N, Cadiergues MC, Pilorge P, Silversides D, Bizot M, Samuels M, Arnan C, Johnson R, Hitte C, Salbert G, Méreau A, Quignon P, Derrien T, André C. A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensitivity to Pain: A Spontaneous Model for Human Sensory Neuropathies. PLoS Genet. 2016 Dec 29;12(12):e1006482. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198995/">doi: 10.1371/journal.pgen.1006482</a>. PMID: 28033318; PMCID: PMC5198995.
+> **Correard S**, Plassais J, Lagoutte L, Botherel N, Thibaud JL, Hédan B, Richard L, Lia AS, Delague V, Mège C, Mathis S, Guaguère E, Paradis M, Vallat JM, Quignon P, André C. Hum Genet. 2019 May;138(5):455-466. <a href="https://link.springer.com/article/10.1007/s00439-019-02003-x">doi: 10.1007/s00439-019-02003-x</a>. Epub 2019 Apr 6. PMID: 30955094.
 
-## Other scientific and non-scientific communications
+A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensitivity to Pain: A Spontaneous Model for Human Sensory Neuropathies.
+
+> Plassais J, Lagoutte L, **Correard S**, Paradis M, Guaguère E, Hédan B, Pommier A, Botherel N, Cadiergues MC, Pilorge P, Silversides D, Bizot M, Samuels M, Arnan C, Johnson R, Hitte C, Salbert G, Méreau A, Quignon P, Derrien T, André C. PLoS Genet. 2016 Dec 29;12(12):e1006482. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198995/">doi: 10.1371/journal.pgen.1006482</a>. PMID: 28033318; PMCID: PMC5198995.
+
+## Oral presentation
+
+The Indigenous background variant library (IBVL) : from community engagement to implementation.
+
+Talk shared with B. Morgan, BIGX Research Day, Vancouver, BC, Canada - 2021
+
+
+
+The Indigenous background variant library (IBVL) : from community engagement to implementation.
+
+Talk shared with B. Morgan, Indigenous Genomics Conference (1st) – Hamilton, New Zealand – 2020
+
+
+
+The Silent Genomes project : Reducing health care disparities and improving diagnostic success for children with genetic diseases from Indigenous populations of Canada.
+
+Talk shared with W. Wasserman, Workshop on Clinical implementation of Genomics and Epigenomics – Barbados – 2020
+
+
+
+Sensory neuropathies : from the variant identification in hunting dogs to DNA screening in Human patients.
+
+The 1st Companion Animal Genetic Health conference – Edinburgh, Scotland – 2018
+
+
+
+
+Research of mutations implicated in Greater Swiss Mountain dogs and Cane corso epilepsies.
+
+The 9th International Conference on Canine and Feline Genetics and Genomics – St-Paul, MN, U.S.A. – 2017
 
 
 
