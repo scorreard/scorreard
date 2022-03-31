@@ -10,6 +10,7 @@ I am driven by the will to use genomic to help naviguate some of today's worlwid
 
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
 Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a> working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
+
 Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA varaints present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
 
 
