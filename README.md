@@ -40,7 +40,7 @@ Over the last few centuries, several hundred dog breeds have been artificially s
 
 If you don't have access to one of these publications and wish to read it, let me know! Scientific publications should be accessible to all.
 
-### Silent Genomes Prooject related 
+### Silent Genomes Project related 
 
 Indigenous Genomic Databases: Pragmatic Considerations and Cultural Contexts.
 
