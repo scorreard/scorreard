@@ -47,6 +47,9 @@ If you don't have access to one of these publications and wish to read it, let m
 Indigenous Genomic Databases: Pragmatic Considerations and Cultural Contexts.
 > Caron NR, Chongo M, Hudson M, Arbour L, Wasserman WW, Robertson S, **Correard S**, Wilcox P. Front Public Health. 2020 Apr 24;8:111. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193324/">doi: 10.3389/fpubh.2020.00111</a>. PMID: 32391301; PMCID: PMC7193324.
 
+Allele Dispersion Score: Quantifying the range of allele frequencies across populations, based on UMAP.
+> **Correard S**, Arbour L, Wasserman W. W. bioRxiv 2022.02.11.479970; <a href="https://www.biorxiv.org/content/10.1101/2022.02.11.479970v1.full.pdf">doi: https://doi.org/10.1101/2022.02.11.479970</a>
+
 ### Study of the non-coding region in human related 
 
 RevUP, an online scoring system for regulatory variants implicated in rare diseases. 
