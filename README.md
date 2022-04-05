@@ -2,7 +2,7 @@
 
 I'm Solenne, a molecular biologist and a bioinformatician passionate about the complexity of human and non-human genomes 🧬.
 
-I am driven by the will to use genomic to help naviguate some of today's worlwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, or **study climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
+I am driven by the will to use genomic to help navigate some of today's worldwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, or **study climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
 
 ## Main projects (Past and present)
 
@@ -13,26 +13,26 @@ Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasser
 
 <br/>
 
-Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA varaints present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
+Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
 
 <br/>
 
 ### Diagnosis of patients affected with rare genetic diseases <img align="right" width="150" height="120" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">
 
-As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticist and other team meber to help  improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
+As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticists and other team members to improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
 
 
 ### Study of the non-coding variants in the genome
 
 <img align="left" width="180" height="120" src="https://github.com/scorreard/scorreard/blob/main/RevUP.png">
-During my PhD, I studied a non coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
-To address that gap in litterature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
+During my PhD, I studied a non-coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
+To address that gap in literature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
 
 
 ### Dog genomes study
 
 <img align="right" width="230" height="180" src="https://github.com/scorreard/scorreard/blob/main/Dog%20breeds.png">
-In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and caracterize variants implicated in neurological disorders, but also varaints implicated in phenotypic charcteristic such as morphology or coat color.
+In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and characterize variants implicated in neurological disorders, but also variants implicated in phenotypic characteristic such as morphology or coat color.
 
 Why the dog genome? 
 Over the last few centuries, several hundred dog breeds have been artificially selected through intense breeding, resulting in the modern dog population having the widest polymorphism spectrum in terms of body shape, behavior and aptitude among mammals. Unfortunately, this diversification has predisposed most breeds to specific diseases of genetic origin (Galibert and André, 2006). Studying the dog genome can help understand diseases and other phenotypes, and have an impact for two species : Humans, and human "best-friends".
@@ -87,20 +87,3 @@ Sensory neuropathies : from the variant identification in hunting dogs to DNA sc
 Research of mutations implicated in Greater Swiss Mountain dogs and Cane corso epilepsies.
 > The 9th International Conference on Canine and Feline Genetics and Genomics – St-Paul, MN, U.S.A. – 2017
 
-
-
-
-<!--
-**scorreard/scorreard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
