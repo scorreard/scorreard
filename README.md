@@ -2,7 +2,7 @@
 
 I'm Solenne, a molecular biologist and a bioinformatician passionate about the complexity of human and non-human genomes 🧬.
 
-I am driven by the will to use genomic to help navigate some of today's worldwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, or **study climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
+I am driven by the will to use genomic to help navigate some of today's worldwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, and **studying climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
 
 ## Main projects (Past and present)
 
