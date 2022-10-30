@@ -87,8 +87,8 @@ A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensi
 
 ## Oral presentation 🗣️
 
-The varaint catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences 
-<a href="https://youtu.be/2g2sTMo0J1A">Recording of Solenne Correard talk at the Nextflow summit 2022</a>
+The varaint catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences.
+><a href="https://youtu.be/2g2sTMo0J1A">Recording of Solenne Correard talk at the Nextflow summit 2022</a>
 >Nextflow summit 2022, Barcelona, Spain - 2022
 
 
