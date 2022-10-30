@@ -6,14 +6,25 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 
 ## Main projects (Past and present)
 
-### The Silent Genomes Project - Building an Indigenous Background Variant Library
+### The Canada Earth Biogenome Project
 
-<img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
-Currently, I am a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a> working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
+<img align="right" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
+Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working on the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to determine the complete genetic diversity of Canada's plants and animals through genomic sequencing.
 
 <br/>
 
-Within this large project, I focus on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
+Within this large project, I will work on the pipeline that will be use to generate the genome assemblies for multiple species.
+
+<br/>
+
+### The Silent Genomes Project - Building an Indigenous Background Variant Library
+
+<img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
+Post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a> working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
+
+<br/>
+
+Within this large project, I focused on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations.
 
 <br/>
 
