@@ -60,6 +60,9 @@ If you don't have access to one of these publications and wish to read it, let m
 Indigenous Genomic Databases: Pragmatic Considerations and Cultural Contexts.
 > Caron NR, Chongo M, Hudson M, Arbour L, Wasserman WW, Robertson S, **Correard S**, Wilcox P. Front Public Health. 2020 Apr 24;8:111. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193324/">doi: 10.3389/fpubh.2020.00111</a>. PMID: 32391301; PMCID: PMC7193324.
 
+The variant catalogue pipeline: A workflow to generate a background variant library from Whole Genome Sequences.
+> **Correard S**, Abdallah M OE., Hewitson B., Wasserman W. W. bioRxiv 2022.02.11.479970; <a href="https://www.biorxiv.org/content/10.1101/2022.10.03.508010v2.full.pdf">doi: https://doi.org/10.1101/2022.10.03.508010</a>
+
 Allele Dispersion Score: Quantifying the range of allele frequencies across populations, based on UMAP.
 > **Correard S**, Arbour L, Wasserman W. W. bioRxiv 2022.02.11.479970; <a href="https://www.biorxiv.org/content/10.1101/2022.02.11.479970v1.full.pdf">doi: https://doi.org/10.1101/2022.02.11.479970</a>
 
@@ -83,6 +86,11 @@ A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensi
 > Plassais J, Lagoutte L, **Correard S**, Paradis M, Guaguère E, Hédan B, Pommier A, Botherel N, Cadiergues MC, Pilorge P, Silversides D, Bizot M, Samuels M, Arnan C, Johnson R, Hitte C, Salbert G, Méreau A, Quignon P, Derrien T, André C. PLoS Genet. 2016 Dec 29;12(12):e1006482. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198995/">doi: 10.1371/journal.pgen.1006482</a>. PMID: 28033318; PMCID: PMC5198995.
 
 ## Oral presentation 🗣️
+
+The varaint catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences 
+<a href="https://youtu.be/2g2sTMo0J1A">Recording of Solenne Correard talk at the Nextflow summit 2022</a>
+>Nextflow summit 2022, Barcelona, Spain - 2022
+
 
 The Indigenous background variant library (IBVL) : from community engagement to implementation.
 >Talk shared with B. Morgan, BIGX Research Day, Vancouver, BC, Canada - 2021
