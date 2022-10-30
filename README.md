@@ -8,7 +8,7 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 
 ### The Canada Earth Biogenome Project
 
-<img align="right" width="150" height="300" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
+<img align="right" width="300" height="150" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
 Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working on the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to determine the complete genetic diversity of Canada's plants and animals through genomic sequencing.
 
 <br/>
