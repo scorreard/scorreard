@@ -13,7 +13,7 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 
 Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead on the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
 
-<br/><br/>
+<br/>
 
 Within this large project, I implemented the <a href="https://github.com/bcgsc/Canadian_Biogenome_Project"> Canadian Biogenome pipeline</a> that the team is using to generate the genome assemblies for multiple species.It relies on well established softwares for genome assemblies and is embedded in a NextFlow framework, feel free to try it out and give feedback or PR!
 
