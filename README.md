@@ -12,7 +12,7 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 <br/>
 
 Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead for the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
-<br/>
+<br/><br/>
 
 <img align="left" width="180" height="200" src="https://github.com/scorreard/scorreard/blob/main/CBP_pipeline.png">
 
