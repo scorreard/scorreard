@@ -32,6 +32,10 @@ Within this large project, I focused on the development of the Indigenous Backgr
 
 <br/>
 
+<img align="center" src="https://github.com/scorreard/scorreard/blob/main/Correard_AGBT.jpeg">
+Illustration by the talented Alex Cagan done during AGBT general meeting 2023!
+<br/>
+
 ### Diagnosis of patients affected with rare genetic diseases <img align="right" width="150" height="120" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">
 
 As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticists and other team members to improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
@@ -100,8 +104,7 @@ Building the path to equitable genomics care for Indigenous patients in Canada.
 >
 ><a href="https://www.agbt.org/events/general-meeting/">Advances in Genome Biology and Technology (AGBT) General meeting</a>, Florida, USA - 2023
 >
-<img align="right" width="230" height="180" src="https://github.com/scorreard/scorreard/blob/main/Correard_AGBT.jpeg">
-Illustration by the talented Alex Cagan!
+
 
 The variant catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences.
 ><a href="https://youtu.be/2g2sTMo0J1A">Recording of Solenne Correard talk at the Nextflow summit 2022</a>
