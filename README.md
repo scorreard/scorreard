@@ -149,5 +149,5 @@ The Silent Genomes Project : inequities in rare disease genomics.
 > Session shared with W.W.Wasserman, UBC graduate student program - 2020
 
 
-Teaching assistant for 3 semesters (during my PhD) to licence and masters student in genetics - 2017,2018.
-> Université de Rennes, France
+Teaching assistant for 3 semesters (during my PhD) to licence and masters students - 2017,2018.
+> Genetic program, Université de Rennes, France
