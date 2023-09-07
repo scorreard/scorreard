@@ -1,4 +1,4 @@
-<img width="192" alt="image" src="https://github.com/scorreard/scorreard/assets/54953390/4639c39f-483e-4d46-b3f8-48d4742f3e7f"># Hello world 👋 👩‍💻 👩‍🔬
+# Hello world 👋 👩‍💻 👩‍🔬
 
 I'm Solenne, a molecular biologist and a bioinformatician passionate about the complexity of human and non-human genomes 🧬.
 
