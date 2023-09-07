@@ -16,7 +16,7 @@ Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/j
 
 <img align="left" width="180" height="200" src="https://github.com/scorreard/scorreard/blob/main/CBP_pipeline.png">
 
-<br/>
+<br/><br/>
 Within this large project, I implemented the <a href="https://github.com/bcgsc/Canadian_Biogenome_Project"> Canadian Biogenome pipeline</a> that the team is using to generate the genome assemblies for multiple species.It relies on well established softwares for genome assemblies and is embedded in a NextFlow framework, feel free to try it out and give feedback or PR!
 I am also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
 On the research side, I am investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
