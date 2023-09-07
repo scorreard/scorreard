@@ -1,4 +1,4 @@
-# Hello world 👋 👩‍💻 👩‍🔬
+<img width="192" alt="image" src="https://github.com/scorreard/scorreard/assets/54953390/4639c39f-483e-4d46-b3f8-48d4742f3e7f"># Hello world 👋 👩‍💻 👩‍🔬
 
 I'm Solenne, a molecular biologist and a bioinformatician passionate about the complexity of human and non-human genomes 🧬.
 
@@ -65,7 +65,7 @@ If you don't have access to one of these publications and wish to read it, let m
 
 Reference genomes for multiple species through the NCBI portal under the <a href="https://www.ncbi.nlm.nih.gov/bioproject/813333">Canadian BioGenome Project (CBP)</a> umbrella BioProject.
 
-Many assemblies have been submitted and are under review by NCBI (several months process), they will appear under <a href="https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=813333">this BioProject </a>once available to the community. The list of specie included in the project is available on the <a href="http://earthbiogenome.ca/project-status-and-data.mhtml"> Project status & data page</a> of the Canadian Biogenome Project website.
+Many assemblies have been submitted and are under review by NCBI (several months process), they will appear under <a href="https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=813333">this BioProject </a>once available to the community. The list of species included in the project is available on the <a href="http://earthbiogenome.ca/project-status-and-data.mhtml"> Project status & data page</a> of the Canadian Biogenome Project website.
 
 
 ### Silent Genomes Project related 
@@ -137,3 +137,17 @@ Sensory neuropathies : from the variant identification in hunting dogs to DNA sc
 Research of mutations implicated in Greater Swiss Mountain dogs and Cane corso epilepsies.
 > The 9th International Conference on Canine and Feline Genetics and Genomics – St-Paul, MN, U.S.A. – 2017
 
+## Teaching / Training 👩‍🏫
+
+<a href="https://bga23.org/nextflow-genomics/#prerequisites">Introduction to NextFlow for genomics</a>
+> Biodiveristy Genomics Academy - 2023, virtual
+
+Non-coding variants : why they matter for rare disease disgnosis and how to identify and report them.
+> UBC Graduate Certificate in Genomic Counselling and Variant Interpretation - Genomic Testing and Clinical Bioinformatics (MEDG 580) (3 hr module course) - 2020, 2021
+
+The Silent Genomes Project : inequities in rare disease genomics.
+> Session shared with W.W.Wasserman, UBC graduate student program - 2020
+
+
+Teaching assistant for 3 semesters (during my PhD) to licence and masters student in genetics - 2017,2018.
+> Université de Rennes, France
