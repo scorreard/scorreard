@@ -11,11 +11,19 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 <img align="right" width="225" height="150" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
 <br/>
 
-Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working on the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to determine the complete genetic diversity of Canada's plants and animals through genomic sequencing.
+Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead on the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
 
 <br/>
 
-Within this large project, I will work on the pipeline that will be use to generate the genome assemblies for multiple species.
+Within this large project, I implemented the pipeline that the team is using to generate the genome assemblies for multiple species.It relies on well established softwares for genome assemblies and is embedded in a NextFlow framework. It is publicly available <a href="https://github.com/bcgsc/Canadian_Biogenome_Project">on the BCGSC github</a>, feel free to try it out and give feedback or PR!
+
+<br/>
+
+I am also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
+
+<br/>
+
+On the research side, I am investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
 
 <br/>
 
