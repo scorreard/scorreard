@@ -20,18 +20,18 @@ Within this large project, I implemented the <a href="https://github.com/bcgsc/C
 I am also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
 <br/>
 On the research side, I am investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
-
+<br/><br/>
 ### The Silent Genomes Project - Building an Indigenous Background Variant Library
 
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
 <br/>
 As a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a>, I was working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
 
-<br/>
-<img align="right" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/Variant_catalogue_figure-2.png">
-Within this large project, I focused on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations. Building the database included the developement of <a href="https://github.com/wassermanlab/Variant_catalogue_pipeline" the variant catalogue pipeline</a> and the developement of the database (back-end and front-end) for end-users to access the variants frequencies.
+<br/><br/>
+<img align="right" width="150" height="225" src="https://github.com/scorreard/scorreard/blob/main/Variant_catalogue_figure-2.png">
+<br/>Within this large project, I focused on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations. Building the database included the developement of <a href="https://github.com/wassermanlab/Variant_catalogue_pipeline" the variant catalogue pipeline</a> and the developement of the database (back-end and front-end) for end-users to access the variants frequencies.
 
-<br/>
+<br/><br/>
 
 <img align="center" src="https://github.com/scorreard/scorreard/blob/main/Correard_AGBT.jpeg">
 Illustration by the talented Alex Cagan done during AGBT general meeting 2023!
