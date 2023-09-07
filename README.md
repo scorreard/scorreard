@@ -89,7 +89,21 @@ A Point Mutation in a lincRNA Upstream of GDNF Is Associated to a Canine Insensi
 
 ## Oral presentation 🗣️
 
-The varaint catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences.
+### Canadian Biogenome Project related
+Canadian Earth Biogenome project assembly pipeline.
+><a href="https://twitter.com/BiodivGenomics">Biodiversity Genomics 23, virtual - October 2023</a>
+
+
+### Silent Genomes Project related 
+Building the path to equitable genomics care for Indigenous patients in Canada.
+><a href="https://twitter.com/agbt/status/1623311005945143300?s=20">Day 3 plenary speakers at AGBT General meeting 2023</a>
+>
+><a href="https://www.agbt.org/events/general-meeting/">Advances in Genome Biology and Technology (AGBT) General meeting</a>, Florida, USA - 2023
+>
+<img align="right" width="230" height="180" src="https://github.com/scorreard/scorreard/blob/main/Correard_AGBT.jpeg">
+Illustration by the talented Alex Cagan!
+
+The variant catalogue pipeline : A workflow to generate a variant catalogue from whole genome sequences.
 ><a href="https://youtu.be/2g2sTMo0J1A">Recording of Solenne Correard talk at the Nextflow summit 2022</a>
 >
 >Nextflow summit 2022, Barcelona, Spain - 2022
@@ -104,6 +118,8 @@ The Indigenous background variant library (IBVL) : from community engagement to 
 
 The Silent Genomes project : Reducing health care disparities and improving diagnostic success for children with genetic diseases from Indigenous populations of Canada.
 > Talk shared with W. Wasserman, Workshop on Clinical implementation of Genomics and Epigenomics – Barbados – 2020
+
+### Dog genetics related 
 
 Sensory neuropathies : from the variant identification in hunting dogs to DNA screening in Human patients.
 > The 1st Companion Animal Genetic Health conference – Edinburgh, Scotland – 2018
