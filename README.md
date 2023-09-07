@@ -63,7 +63,7 @@ If you don't have access to one of these publications and wish to read it, let m
 
 ### Canadian Biogenome Project related
 
-Genomic, transcriptomic and reference genomes for multiple species through the NCBI portal under the <a href="https://www.ncbi.nlm.nih.gov/bioproject/813333">Canadian BioGenome Project (CBP)</a> umbrella BioProject.
+Reference genomes for multiple species through the NCBI portal under the <a href="https://www.ncbi.nlm.nih.gov/bioproject/813333">Canadian BioGenome Project (CBP)</a> umbrella BioProject.
 
 Many assemblies have been submitted and are under review by NCBI (several months process), they will appear under <a href="https://www.ncbi.nlm.nih.gov/assembly?LinkName=bioproject_assembly_all&from_uid=813333">this BioProject </a>once available to the community. The list of specie included in the project is available on the <a href="http://earthbiogenome.ca/project-status-and-data.mhtml"> Project status & data page</a> of the Canadian Biogenome Project website.
 
