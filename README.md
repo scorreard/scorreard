@@ -10,8 +10,6 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 
 ### The Canada Earth Biogenome Project
 
-
-
 Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead for the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
 <br/><br/>
 
@@ -22,8 +20,6 @@ Within this large project, I implemented the <a href="https://github.com/bcgsc/C
 I am also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
 <br/>
 On the research side, I am investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
-
-<br/>
 
 ### The Silent Genomes Project - Building an Indigenous Background Variant Library
 
