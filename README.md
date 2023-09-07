@@ -24,6 +24,7 @@ On the research side, I am investigating methylation pattern for the newly gener
 ### The Silent Genomes Project - Building an Indigenous Background Variant Library
 
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
+<br/>
 As a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a>, I was working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
 
 <br/>
