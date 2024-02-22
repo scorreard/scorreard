@@ -6,30 +6,39 @@ I am driven by the will to use genomic to help navigate some of today's worldwid
 
 ## Main projects (Past and present)
 
-<img align="right" width="225" height="150" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
+### Wise Ancestors (2024 - present)
 
-### The Canada Earth Biogenome Project (2022 - present)
-
-Currently, I am a research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead for the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
+<img align="left" width="150" height="45" src="https://github.com/scorreard/scorreard/blob/main/WA_logo.png">
+<p align="justify">
+Currently, I am the scientific director for <a href="https://www.wiseancestors.org/">Wise Ancestors</a>, a non-profit organization braiding Indigenous knowledge with cutting-edge biotechnology to safeguard biodiversity.
 <br/><br/>
+The Wise Ancestors platform interweaves genomic sequencing, biobanking, and Indigenous Knowledge to create, fund and complete Conservation Challenges, accelerating the conservation of Earth's biodiversity for the benefit of all.</p>
+
+<img align="right" width="185" height="125" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
+
+### The Canada Earth Biogenome Project (2022 - 2023)
+<p align="justify">
+Research associate in the <a href="https://www.bcgsc.ca/labs/jones-lab">Jones lab</a> working as the bioinformatic lead for the <a href="http://earthbiogenome.ca">Canada Earth Biogenome Project</a> which aims to make available 400 high quality reference genomes for Canadian species that represent a diverse domain of life.
+<br/><br/></p>
 
 <img align="left" width="180" height="200" src="https://github.com/scorreard/scorreard/blob/main/CBP_pipeline.png">
-
+<p align="justify">
 Within this large project, I implemented the <a href="https://github.com/bcgsc/Canadian_Biogenome_Project"> Canadian Biogenome pipeline</a> that the team is using to generate the genome assemblies for multiple species. It relies on well established softwares for genome assemblies and is embedded in a NextFlow framework, feel free to try it out and give feedback or PR!
 <br/>
-I am also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
+I was also doing some analysis for end-users of the project : improvement of previously published assemblies, paternity tests for animal in captivity or semi-captivity to help breeding programs, etc.
 <br/>
-On the research side, I am investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
-<br/><br/>
+On the research side, I was investigating methylation pattern for the newly generated assemblies and exploring the use of multi-species pangenomes.
+<br/><br/></p>
+
 ### The Silent Genomes Project - Building an Indigenous Background Variant Library (2019-2022)
 
 <img align="left" width="60" height="150" src="https://github.com/scorreard/scorreard/blob/main/SG%20Logo_0.png">
 <br/>
-As a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a>, I was working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.
+<p align="justify">As a post-doctoral fellow in the <a href="https://cisreg.ca">Wasserman lab</a>, I was working on the <a href="https://www.bcchr.ca/silent-genomes-project">Silent Genomes Project</a>. The overall goal of the Silent Genomes project is to reduce health care disparities and improve diagnostic success for children with genetic diseases from Indigenous populations in Canada.</p>
 
 <br/><br/>
 <img align="right" width="150" height="225" src="https://github.com/scorreard/scorreard/blob/main/Variant_catalogue_figure-2.png">
-<br/>Within this large project, I focused on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations. Building the database included the developement of <a href="https://github.com/wassermanlab/Variant_catalogue_pipeline" the variant catalogue pipeline</a> and the developement of the database (back-end and front-end) for end-users to access the variants frequencies.
+<p align="justify"><br/>Within this large project, I focused on the development of the Indigenous Background Variant Library, which is a database of DNA variants present in a group of people without severe genetic conditions, which will help to determine variants that are common or rare in the general population, and therefore, help diagnosis of rare diseases in these populations. Building the database included the developement of <a href="https://github.com/wassermanlab/Variant_catalogue_pipeline"> the variant catalogue pipeline</a> and the developement of the database (back-end and front-end) for end-users to access the variants frequencies.</p>
 
 <br/><br/>
 
@@ -39,23 +48,23 @@ Illustration by the talented Alex Cagan done during AGBT general meeting 2023!
 
 ### Diagnosis of patients affected with rare genetic diseases (2019-2022) <img align="right" width="150" height="120" src="https://github.com/scorreard/scorreard/blob/main/bcch_logo1.png">
 
-As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticists and other team members to improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.
+<p align="justify">As a variant analyst and bioinformatician in the TIDE project, I was working together with clinicians, geneticists and other team members to improve diagnosis, treatment and care for patients affected with inborn errors of metabolism.</p>
 
 
 ### Study of the non-coding variants in the genome (2019-2022)
 
 <img align="left" width="180" height="120" src="https://github.com/scorreard/scorreard/blob/main/RevUP.png">
-During my PhD, I studied a non-coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
-To address that gap in literature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.
+<p align="justify">During my PhD, I studied a non-coding variant implicated in a rare disease without interpretation guidelines directly relevant for such variants.
+To address that gap in literature, during my post-doc, I reviewed non-coding variants implicated in human rare disease to create interpretation guidelines for non-coding variants based on 24 criteria. This led to the development of <a href="http://www.revup-classifier.ca">RevUP</a> (Regulatory Evidence for Variants Underlying Phenotypes), an online scoring system using both online resources and user input.</p>
 
 
 ### Dog genomes study (2015-2018)
 
 <img align="right" width="230" height="180" src="https://github.com/scorreard/scorreard/blob/main/Dog%20breeds.png">
-In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and characterize variants implicated in neurological disorders, but also variants implicated in phenotypic characteristic such as morphology or coat color.
+<p align="justify">In the past, I studied dog genomes 🐶 (mostly the non-coding part) to find and characterize variants implicated in neurological disorders, but also variants implicated in phenotypic characteristic such as morphology or coat color.</p>
 
 Why the dog genome? 
-Over the last few centuries, several hundred dog breeds have been artificially selected through intense breeding, resulting in the modern dog population having the widest polymorphism spectrum in terms of body shape, behavior and aptitude among mammals. Unfortunately, this diversification has predisposed most breeds to specific diseases of genetic origin (Galibert and André, 2006). Studying the dog genome can help understand diseases and other phenotypes, and have an impact for two species : Humans, and human "best-friends".
+<p align="justify">Over the last few centuries, several hundred dog breeds have been artificially selected through intense breeding, resulting in the modern dog population having the widest polymorphism spectrum in terms of body shape, behavior and aptitude among mammals. Unfortunately, this diversification has predisposed most breeds to specific diseases of genetic origin (Galibert and André, 2006). Studying the dog genome can help understand diseases and other phenotypes, and have an impact for two species : Humans, and human "best-friends".</p>
 
 
 ## Publications 📝
