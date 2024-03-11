@@ -4,7 +4,7 @@ I'm Solenne, a molecular biologist and a bioinformatician passionate about the c
 
 I am driven by the will to use genomic to help navigate some of today's worldwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, and **studying climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
 
-
+## Open to Collaborate Notice
 
 <img align="left" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/Open_To_Collaborate.png"> As a researcher, I am committed to the development of new modes of collaboration, engagement, and partnership with Indigenous peoples for the care and stewardship of past and future heritage collections.
 
