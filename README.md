@@ -4,6 +4,14 @@ I'm Solenne, a molecular biologist and a bioinformatician passionate about the c
 
 I am driven by the will to use genomic to help navigate some of today's worldwide challenges, such as **ensuring equal access to personalized medicine to everyone around the globe**, regardless of their origin or economic background, and **studying climate change repercussions** on earth biodiversity and fresh water / food supply to help prevent future dramatic events.
 
+
+
+<img align="left" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/Open_To_Collaborate.png"> As a researcher, I am committed to the development of new modes of collaboration, engagement, and partnership with Indigenous peoples for the care and stewardship of past and future heritage collections.
+
+This Notice indicates a commitment to change and to developing new processes and practices for the care and stewardship of past and future heritage collections. This has been done through my previous work experience and is at the core of my current work with Wise Ancestors.
+
+For more information about this notice, visit <a href="https://localcontexts.org/">LocalContexts website</a>
+
 ## Main projects (Past and present)
 
 ### Wise Ancestors (2024 - present)
