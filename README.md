@@ -13,6 +13,21 @@ This Notice indicates a commitment to change and to developing new processes and
 For more information about this notice, visit <a href="https://localcontexts.org/">LocalContexts website</a>
 
 ## Main projects (Past and present)
+  
+### Wise Ancestors (2024 - present)
+
+<img align="left" width="150" height="45" src="https://github.com/scorreard/scorreard/blob/main/WA_logo.png">
+<p align="justify">
+Currently, I am the scientific director for <a href="https://www.wiseancestors.org/">Wise Ancestors</a>, a non-profit organization braiding Indigenous knowledge with cutting-edge biotechnology to safeguard biodiversity.
+<br/><br/>
+The Wise Ancestors platform interweaves genomic sequencing, biobanking, and Indigenous Knowledge to create, fund and complete Conservation Challenges, accelerating the conservation of Earth's biodiversity for the benefit of all.</p>
+
+<img align="right" width="100" height="100" src="https://github.com/scorreard/scorreard/blob/main/genouest_logo.png">
+
+### GenOuest platform (2025 - present)
+
+<p align="justify">
+Currently, I am a development and data analysis engineer on the <a href="https://elixir-europe.org/about-us/how-funded/eu-projects/steers">ELIXIR-STEERS</a> project for the <a href="https://www.genouest.org/">GenOuest bioinformatic platform</a>, based in Rennes, France.</p>
 
 ### S-line Bioinformatics consulting (2024 - present)
 
@@ -28,20 +43,11 @@ My services include:<br/>
 •	Engaging with communities to discuss the benefits of biotechnology and its applications in healthcare and biodiversity.
 
 
-<br/><img align="right" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/HOC.png">
+<!-- <img align="right" width="150" height="150" src="https://github.com/scorreard/scorreard/blob/main/HOC.png">
 <p align="justify">
 Following the launch of S-line, I connected with other talented bioinformaticians offering consulting services, and we decided to join forces and created a collective called <a href="https://perimatrixit.com/hoc/">Horizon Omics Collective</a>! 
-Together, we’re bringing a wealth of expertise to tackle complex challenges in science and technology. Our unique “Pair-Consulting” model ensures that every project benefits from the expertise of a lead consultant and the careful review of a second expert. As highlighted by Ferenc et al. in their 2024 paper, Improving Bioinformatics Software Quality Through Teamwork, practices like code reviews and collective learning significantly boost software quality and maintainability. By embracing these principles, we aim to overcome the pitfalls of individualistic development and bring the best of teamwork to every project.
-<br/><br/>
-
-### Wise Ancestors (2024 - present)
-
-<img align="left" width="150" height="45" src="https://github.com/scorreard/scorreard/blob/main/WA_logo.png">
-<p align="justify">
-Currently, I am the scientific director for <a href="https://www.wiseancestors.org/">Wise Ancestors</a>, a non-profit organization braiding Indigenous knowledge with cutting-edge biotechnology to safeguard biodiversity.
-<br/><br/>
-The Wise Ancestors platform interweaves genomic sequencing, biobanking, and Indigenous Knowledge to create, fund and complete Conservation Challenges, accelerating the conservation of Earth's biodiversity for the benefit of all.</p>
-
+Together, we’re bringing a wealth of expertise to tackle complex challenges in science and technology. Our unique “Pair-Consulting” model ensures that every project benefits from the expertise of a lead consultant and the careful review of a second expert. As highlighted by Ferenc et al. in their 2024 paper, Improving Bioinformatics Software Quality Through Teamwork, practices like code reviews and collective learning significantly boost software quality and maintainability. By embracing these principles, we aim to overcome the pitfalls of individualistic development and bring the best of teamwork to every project. -->
+<br/>
 <img align="right" width="185" height="125" src="https://github.com/scorreard/scorreard/blob/main/earthbiogenome.canada.png">
 
 ### The Canada Earth Biogenome Project (2022 - 2023)
