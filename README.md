@@ -167,7 +167,10 @@ Biogenoma Colombia - The Wise Ancestors model.
 
 <br/>
 
-### Canadian Biogenome Project related
+### Biodiversity genomics related
+The Biodiversity Galaxy Lab: A Collaborative Hub with curated tools, workflows and training
+>European Galaxy Days, Freiburg, Germany - October 2025
+
 Canadian Earth Biogenome project assembly pipeline.
 >Biodiversity Genomics 23, virtual - October 2023
 
